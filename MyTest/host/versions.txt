@@ -1,0 +1,13 @@
+com.android.support.constraint:constraint-layout-solver:1.0.2 95560
+com.android.support.constraint:constraint-layout:1.0.2 38176
+com.android.support:animated-vector-drawable:25.3.1 15556
+com.android.support:appcompat-v7:25.3.1 1026404
+com.android.support:support-annotations:25.3.1 22926
+com.android.support:support-compat:25.3.1 638932
+com.android.support:support-core-ui:25.3.1 242680
+com.android.support:support-core-utils:25.3.1 94287
+com.android.support:support-fragment:25.3.1 157033
+com.android.support:support-media-compat:25.3.1 283505
+com.android.support:support-v4:25.3.1 1762
+com.android.support:support-vector-drawable:25.3.1 38511
+com.didi.virtualapk:core:0.9.0 86007
